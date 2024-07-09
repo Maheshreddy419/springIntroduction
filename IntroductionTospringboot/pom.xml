@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codingshuttle.week1</groupId>
-	<artifactId>IntroductionTospringboot</artifactId>
+	<artifactId>IntroductionToSpringBootApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>IntroductionTospringboot</name>
+	<name>IntroductionToSpringBootApplication</name>
 	<description>Demo project for Spring Boot for week 1</description>
 	<url/>
 	<licenses>
